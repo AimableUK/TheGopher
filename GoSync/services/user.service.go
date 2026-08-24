@@ -1,6 +1,6 @@
 package services
 
-import "github.com/AimableUK/GoSync/models"
+import "github.com/AimableUK/TheGopher/GoSync/models"
 
 type UserService interface {
 	CreateUser(*models.User) error

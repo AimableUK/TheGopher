@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/AimableUK/GoSync/controllers"
-	"github.com/AimableUK/GoSync/services"
+	"github.com/AimableUK/TheGopher/GoSync/controllers"
+	"github.com/AimableUK/TheGopher/GoSync/services"
 	"github.com/gin-gonic/gin"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"

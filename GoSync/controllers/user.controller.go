@@ -3,8 +3,8 @@ package controllers
 import (
 	"net/http"
 
-	"github.com/AimableUK/GoSync/models"
-	"github.com/AimableUK/GoSync/services"
+	"github.com/AimableUK/TheGopher/GoSync/models"
+	"github.com/AimableUK/TheGopher/GoSync/services"
 	"github.com/gin-gonic/gin"
 )
 

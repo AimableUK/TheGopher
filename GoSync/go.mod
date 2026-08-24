@@ -1,4 +1,4 @@
-module github.com/AimableUK/GoSync
+module github.com/AimableUK/TheGopher/GoSync
 
 go 1.26.5
 

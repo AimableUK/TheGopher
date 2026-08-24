@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 
-	"github.com/AimableUK/GoSync/models"
+	"github.com/AimableUK/TheGopher/GoSync/models"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 )
